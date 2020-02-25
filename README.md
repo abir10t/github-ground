@@ -5,5 +5,6 @@
     for change into github ->git commit -m "message"
     finally let github this arte the changes ->git push
     for cheack if file modified ->git status
+    update the folder ->git pull
 
 
