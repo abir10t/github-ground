@@ -7,4 +7,10 @@
     for cheack if file modified ->git status
     update the folder ->git pull
 
+   ##### git project -> git init 
+   ##### for hidden file in a directory -> ls -a
+   ##### which file are gooing to git -> git status
+   ##### need to added them into a commit stage -> git add -A (if we change file than we can use it)
+   ##### make a commit ->  git commit -m "first commit " => last space is important
+  ##### use github provides link + git push (for second push just use -> git push)
 
