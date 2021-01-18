@@ -23,3 +23,8 @@
   1. git diff -> show difference between work directory and staging area.
   2. git diff HEAD ->difference between local repository and working directory.
 
+
+
+#### cheacked is git install correctly:
+      1.go to comand promt
+      2.
