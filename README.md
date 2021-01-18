@@ -1,3 +1,6 @@
+  https://www.youtube.com/watch?v=4KdGgGsIDeA&t=717s
+  
+  
   ### github  
     for clone -> git clone url
     for untrack file which is not push in github -> git status
