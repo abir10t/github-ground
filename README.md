@@ -13,4 +13,13 @@
    ##### need to added them into a commit stage -> git add -A (if we change file than we can use it)
    ##### make a commit ->  git commit -m "first commit " => last space is important
   ##### use github provides link + git push (for second push just use -> git push)
+  
+  
+  
+  
+  ...............................
+  
+  Remote -> local :
+  1. git diff -> show difference between work directory and staging area.
+  2. git diff HEAD ->difference between local repository and working directory.
 
