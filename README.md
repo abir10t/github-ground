@@ -79,3 +79,8 @@
 ##### push in server :
         1. git remote add origin https://github.com/abir10t/flutter-_-ui_visiting_card.git
         2. git push -u origin master
+
+##### Gesture Detector :
+  when we use reuseable widget, than we need to use Gesture Detector 
+
+##### Enumeration :
